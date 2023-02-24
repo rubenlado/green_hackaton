@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 
 import MapPicker from 'react-google-map-picker'
 
-const DefaultLocation = { lat: 10, lng: 106};
-const DefaultZoom = 10;
+const DefaultLocation = { lat: 42, lng: -7};
+const DefaultZoom = 8;
 
 const App = () => {
 
